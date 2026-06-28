@@ -2,6 +2,9 @@
 
 Interactive business intelligence dashboard analyzing retail sales performance using the Superstore dataset.
 
+
+![Dashboard Preview](IMG_20260628_161120.jpg)
+
 ### **Live Preview**
 📊 [View PDF Screenshot](superstore_dashboard_preview.pdf) | 📁 [Download PBIX File](superstore_dashboard.pbix)
 
